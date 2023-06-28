@@ -27,7 +27,6 @@ function Discord() {
 
 function Roblox() {
     window.location.href = "https://www.roblox.com/users/";
-    alert("There was an error finding user. Please contact alex_070 on discord.")
 }
 
 function CorrectPage() {
