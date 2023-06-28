@@ -1,3 +1,5 @@
+console.log("Made with ❤️ by alex_070!")
+
 document.addEventListener('DOMContentLoaded', function() {
     var toggleIcons = document.querySelectorAll('.toggle-icon');
     for (var i = 0; i < toggleIcons.length; i++) {
