@@ -26,3 +26,7 @@ function Discord() {
 function Roblox() {
     window.location.href = "https://www.roblox.com/users/245387137/profile?friendshipSourceType=PlayerSearch";
 }
+
+function CorrectPage() {
+  window.location.href = "Main.html";
+}
