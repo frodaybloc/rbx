@@ -26,7 +26,7 @@ function Discord() {
 }
 
 function Roblox() {
-    window.location.href = "https://www.roblox.com/users/";
+    window.location.href = "https://www.roblox.com/search/users?keyword=frodaybloc";
 }
 
 function CorrectPage() {
